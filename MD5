@@ -1,0 +1,13 @@
+c6c60d598885acf7de8b178c6f64425a *DESCRIPTION
+a5240fa1fc4d19a46b019081f89fd7bb *NAMESPACE
+3fc4c2c8e8aba93bc937be2101057930 *NEWS.md
+87fd0d63025032adeec0598c4b388f8b *R/hist.R
+a5d529d3ce926cccd9fae63d15df2103 *R/strat.R
+c23616cfab4f1f2cfa640ad3b156dabd *README.md
+6f16fe07794d54f381dc5374bc32f31a *man/hctrial.Rd
+ac8ea56196b250bee58333a66929030f *man/hist_end.Rd
+793587c2bc2754c45c76128835ba7a14 *man/hist_interim.Rd
+50078b990e6b4b4288fa4a2320d1ff8e *man/hist_start.Rd
+ecb069cb8ab78bf4eacc52fbcf7e52cd *man/strat_end.Rd
+bc28e704f55938e1158f0e2a69b1489c *man/strat_interim.Rd
+3715b900ce83902140acfca3ded7ea25 *man/strat_start.Rd
